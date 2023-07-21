@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@200;300;400;500;600;700;800&display=swap');
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Assistant', sans-serif;
+    font-weight:500;
+}
+
+.left{
+    display: flex;
+    /* justify-content: space-between; */
+    column-gap: 20px;
+}
+
+.right{
+    margin-left: 35%;
+}
+
+.item{
+    width: 100px;
+}
+
+.item:hover{
+    text-decoration: underline;
+    text-decoration-color : orange;
+    text-decoration-thickness: 3px;
+    text-shadow: 0.5px;
+
+}

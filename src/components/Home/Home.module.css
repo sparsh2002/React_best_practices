@@ -1,0 +1,26 @@
+.homeTitle{
+    font-weight: 900;
+    color:blue
+}
+
+.main{
+    margin: 4px;
+    padding: 4px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.leftMain{
+    width: 20%;
+}
+
+.rightMain{
+    width: 75%;
+}
+
+.contactHeading{
+    margin-top: 5%;
+    font-size:x-large;
+    font-weight: bold;
+}

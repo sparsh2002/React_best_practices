@@ -1,0 +1,21 @@
+.main{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heading{
+    font-size: larger;
+    font-weight: 600;
+}
+
+.menu{
+    display:flex;
+    flex-direction: column;
+    row-gap:20px;
+    /* column-gap: 40px; */
+}
